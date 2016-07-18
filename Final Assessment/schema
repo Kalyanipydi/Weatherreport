@@ -1,0 +1,39 @@
+{
+	"coord": {
+		"lon": 77.6,
+		"lat": 12.98
+	},
+	"sys": {
+		"message": 0.0319,
+		"country": "IN",
+		"sunrise": 1468801922,
+		"sunset": 1468847985
+	},
+	"weather": [{
+		"id": 803,
+		"main": "Clouds",
+		"description": "broken clouds",
+		"icon": "04d"
+	}],
+	"base": "stations",
+	"main": {
+		"temp": 298.194,
+		"temp_min": 298.194,
+		"temp_max": 298.194,
+		"pressure": 927.25,
+		"sea_level": 1023.42,
+		"grnd_level": 927.25,
+		"humidity": 85
+	},
+	"wind": {
+		"speed": 5.57,
+		"deg": 256.004
+	},
+	"clouds": {
+		"all": 80
+	},
+	"dt": 1468820102,
+	"id": 1277333,
+	"name": "Bangalore",
+	"cod": 200
+}
